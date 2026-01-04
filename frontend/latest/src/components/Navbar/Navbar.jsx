@@ -15,7 +15,7 @@ function Navbar({ isAuthenticated, setIsAuthenticated }) {
     <nav className="navbar">
       <div className="navbar-container">
         <Link to="/" className="navbar-logo">
-          <span className="logo-icon">🎨</span>
+          <span className="logo-icon"></span>
           Creative Showcase
         </Link>
         
